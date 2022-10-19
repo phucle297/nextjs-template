@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "bg": "/images/homepage/typeBg1.webp",
+      "img": "/images/homepage/type1.webp",
+      "imgHover": "/images/homepage/typehover1.webp",
+      "title": "Mie Điệu Đà",
+      "desc": "Cô nàng nổi tiếng trong trường với quần áo và phụ kiện luôn là xu hướng thời trang được cập nhật nhất. Mie thông minh, có chính kiến, là người luôn tạo ra những phong trào trong trường. Mie khá kiêu, nhưng nhìn lại muốn yêu yêu.",
+      "imgHoverVertical": "/images/about/product1hover.webp",
+      "alt": "type1"
+    },
+    {
+      "id": 2,
+      "bg": "/images/homepage/typeBg2.webp",
+      "img": "/images/homepage/type2.webp",
+      "imgHover": "/images/homepage/typehover2.webp",
+      "title": "Mie Điệu Đà",
+      "desc": "Cô nàng nổi tiếng trong trường với quần áo và phụ kiện luôn là xu hướng thời trang được cập nhật nhất. Mie thông minh, có chính kiến, là người luôn tạo ra những phong trào trong trường. Mie khá kiêu, nhưng nhìn lại muốn yêu yêu.",
+      "imgHoverVertical": "/images/about/product1hover.webp",
+      "alt": "type2"
+    },
+    {
+      "id": 3,
+      "bg": "/images/homepage/typeBg3.webp",
+      "img": "/images/homepage/type3.webp",
+      "imgHover": "/images/homepage/typehover3.webp",
+      "title": "Mie Điệu Đà",
+      "desc": "Cô nàng nổi tiếng trong trường với quần áo và phụ kiện luôn là xu hướng thời trang được cập nhật nhất. Mie thông minh, có chính kiến, là người luôn tạo ra những phong trào trong trường. Mie khá kiêu, nhưng nhìn lại muốn yêu yêu.",
+      "imgHoverVertical": "/images/about/product1hover.webp",
+      "alt": "type3"
+    }
+  ],
+  "total": 3
+}

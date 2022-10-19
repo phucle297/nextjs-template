@@ -1,0 +1,22 @@
+{
+  "eslint.validate": ["javascript", "typescript"],
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "eslint.lintTask.enable": true,
+  "prettier.enable": true,
+  "prettier.configPath": "prettier.config.js",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "/images/about/abouttype1.webp",
+      "imgHover": "/images/about/abouttypehover1.webp",
+      "char": "/images/about/char1.webp",
+      "charHover": "/images/about/charhover1.webp",
+      "title": "Ace Hoạt Bát",
+      "desc": "Năng động, sáng tạo, chất chơi và cá tính, Ace là một vũ công thực thụ. Những bước nhảy thần sầu của Ace cùng với âm nhạc luôn là màn trình diễn mãn nhãn mỗi giờ ra chơi hoặc sinh hoạt ngoại khoá.",
+      "alt": "type1"
+    },
+    {
+      "id": 2,
+      "img": "/images/about/abouttype2.webp",
+      "imgHover": "/images/about/abouttypehover2.webp",
+      "char": "/images/about/char2.webp",
+      "charHover": "/images/about/charhover2.webp",
+      "title": "Leo Thông Thái",
+      "desc": "Tố chất lãnh đạo và đam mê kiến thức chính là điểm nổi bật nhất của Leo. Một khi lớp trưởng Leo đã cai quản, cả lớp đừng mong đứng nhì. Một mống học sinh lười cũng đủ làm Leo lên cơn thịnh nộ. Bởi vì Leo làm được, bạn cũng làm cho bằng được.",
+      "alt": "type2"
+    },
+    {
+      "id": 3,
+      "img": "/images/about/abouttype3.webp",
+      "imgHover": "/images/about/abouttypehover3.webp",
+      "char": "/images/about/char3.webp",
+      "charHover": "/images/about/charhover3.webp",
+      "title": "Tony Năng Động",
+      "desc": "Lầm lì, nghiêm túc những cũng không kém phần “bẩn bựa”, Tony là một tay mê thể thao thứ thiệt, nhưng cũng mà một cỗ máy háu ăn không ai bằng. Bụng Tony được mệnh danh là nơi ấm áp nhất quả Đất.",
+      "alt": "type3"
+    },
+    {
+      "id": 4,
+      "img": "/images/about/abouttype4.webp",
+      "imgHover": "/images/about/abouttypehover4.webp",
+      "char": "/images/about/char4.webp",
+      "charHover": "/images/about/charhover4.webp",
+      "title": "Mie Điệu Đà",
+      "desc": "Cô nàng nổi tiếng trong trường với quần áo và phụ kiện luôn là xu hướng thời trang được cập nhật nhất. Mie thông minh, có chính kiến, là người luôn tạo ra những phong trào trong trường. Mie khá kiêu, nhưng nhìn lại muốn yêu yêu.",
+      "alt": "type4"
+    },
+    {
+      "id": 5,
+      "img": "/images/about/abouttype5.webp",
+      "imgHover": "/images/about/abouttypehover5.webp",
+      "char": "/images/about/char5.webp",
+      "charHover": "/images/about/charhover5.webp",
+      "title": "Ozzy Ấm Áp",
+      "desc": "Cô nàng thẩn thơ với tình yêu thiên nhiên vô cùng trong trẻo, mộng mơ. Ozzy và chú cún cưng luôn đi theo cô đến mọi nơi chính là linh hồn của những chiến dịch yêu môi trường ở lớp. Ozzy cũng là một youtuber thuộc hàng xịn xò, thu hút ngàn lượt theo dõi.",
+      "alt": "type5"
+    }
+  ],
+  "total": 5
+}
